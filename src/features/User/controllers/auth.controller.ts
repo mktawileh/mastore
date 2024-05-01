@@ -33,7 +33,6 @@ export default class AuthController {
       res.statusCode = 400;
       return next(error.details.map(d => d.message))
     }
-
     try {
       const emailExists = await User.findOne({
         where: { email: value.email }
@@ -42,23 +41,21 @@ export default class AuthController {
         res.statusCode = 400;
         return next("User email already exists");
       }
+      const user = await User.create({
+        name: value.name,
+        email: value.email,
+        password: hashSync(value.password, 10)
+      })
+      res.json({
+        data: {
+          name: user.name,
+          email: user.email
+        }
+      })
     } catch (err) {
       res.statusCode = 500;
       return next("Server Error");
     }
-
-    const user = await User.create({
-      name: value.name,
-      email: value.email,
-      password: hashSync(value.password, 10)
-    })
-
-    res.json({
-      data: {
-        name: user.name,
-        email: user.email
-      }
-    })
   }
 
   public static async login(req: Request, res: Response, next: NextFunction) {
