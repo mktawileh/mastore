@@ -23,7 +23,7 @@ const userPostDtoSchema = Joi.object<UserPostDto>({
 const userLoginDtoSchema = Joi.object<UserLoginDto>({
   email: Joi.string().email().required(),
   password: Joi.string().min(5).max(30).required(),
-})
+});
 
 export default class AuthController {
   public static async register(req: Request, res: Response, next: NextFunction) {

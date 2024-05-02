@@ -1,0 +1,1480 @@
+[
+  {
+    "title": "Brand Inlet Knit Blazer",
+    "description": "This textured knit blazer is crafted from sustainable fibers for a smart and polished vibe.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#E5E5E5"],
+    "brand": "Faherty",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Blazers"
+    ],
+    "price": 45.99,
+    "files": [
+      1
+    ]
+  },
+  {
+    "title": "Extra Trim Fit Sport Coat",
+    "description": "Patch pockets accent this classically styled sport coat with a bit of stretch for comfort and an extra-trim fit.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#2F2D2E"],
+    "brand": "Nordstrom",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Blazers"
+    ],
+    "price": 76.50,
+    "files": [
+      2
+    ]
+  },
+  {
+    "title": "Tech-Smart Trim Fit Corduroy Sport Coat (Regular, Big & Tall)",
+    "description": "A smart choice for travel, this slim-fitting sport coat is crafted from a wrinkle-resistant Tech-Smart corduroy fabric with a hint of stretch for comfort.",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": ["#56291C"],
+    "brand": "Nordstrom",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Blazers"
+    ],
+    "price": 29.99,
+    "files": [
+      3
+    ]
+  },
+  {
+    "title": "Kei Plaid Wool Sport Coat",
+    "description": "Beautiful Italian craftsmanship sets apart this regal wool-blend sport coat that has a refined texture and charming color.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#39404C"],
+    "brand": "Canali",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Blazers"
+    ],
+    "price": 92.75,
+    "files": [
+      4
+    ]
+  },
+  {
+    "title": "Keith Soft Construction Slim Fit Linen Blend Sport Coat",
+    "description": "Beautiful floral jacquard makes a quick cameo on the inside of this Italian linen-blend sport coat fixed with a dapper single-breasted closure.",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": ["#65454A"],
+    "brand": "Ted Baker London",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Blazers"
+    ],
+    "price": 68.25,
+    "files": [
+      5
+    ]
+  },
+  {
+    "title": "Hutson Check Wool Sport Coat",
+    "description": "An oversize check woven in dusky blues smartly patterns a sport coat tailored from subtly textured virgin wool and framed with classic notched lapels.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#646384"],
+    "brand": "BOSS",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Blazers"
+    ],
+    "price": 55.99,
+    "files": [
+      6
+    ]
+  },
+  {
+    "title": "Hampton Half Lined Linen Blend Sport Coat",
+    "description": "Cut from a stretchy, lightweight linen-blend knit with a variegated hue, this sport coat is a dapper way to take on the day.",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": ["#333849"],
+    "brand": "Jack Victor",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Blazers"
+    ],
+    "price": 36.50,
+    "files": [
+      7
+    ]
+  },
+  {
+    "title": "Bear Patch Cotton Hoodie",
+    "description": "The label's Polo Bear sporting dapper attire lends iconic brand charm to this luxe stretch-cotton hoodie rendered in a rich green hue.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": ["#6A5F43"],
+    "brand": "Ralph Lauren Purple Label",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 79.99,
+    "files": [
+      8
+    ]
+  },
+  {
+    "title": "Men's Cotton Blend Hoodie",
+    "description": "Invest in a laid-back look with this cotton-blend hoodie that features a contrast drawstring and ample kangaroo pocket.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": ["#A8A8A8"],
+    "brand": "Treasure & Bond",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 49.99,
+    "files": [
+      9
+    ]
+  },
+  {
+    "title": "Jazz Floral Graphic Hoodie",
+    "description": "A flowery take on the brand's logo fronts this hoodie cut for a comfortably relaxed fit from a soft, warm cotton-blend fabric.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": ["#333754"],
+    "brand": "Vans",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 59.99,
+    "files": [
+      10
+    ]
+  },
+  {
+    "title": "Men's Holla Convertible Logo Hoodie",
+    "description": "A subtle logo marks the side of this heavyweight cotton-blend hoodie featuring a removable hood and hidden back pocket for stashing your phone.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": ["#737174"],
+    "brand": "D.RT",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 89.99,
+    "files": [
+      11
+    ]
+  },
+  {
+    "title": "Pullover Hoodie",
+    "description": "Iconic logo branding accents pepper an ultrasoft cotton-blend hoodie complete with a kangaroo pocket.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": ["#F1CB92"],
+    "brand": "D.RT",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 39.99,
+    "files": [
+      12
+    ]
+  },
+  {
+    "title": "Short Sands Cotton Blend Graphic Hoodie",
+    "description": "Feel free in this cotton-blend hoodie featuring a wavy signature graphic on the back and a small logo in the front.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": ["#BDAFC0"],
+    "brand": "Billabong",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 69.99,
+    "files": [
+      13
+    ]
+  },
+  {
+    "title": "Astrology Chart Cotton Blend Hoodie",
+    "description": "A vintage-inspired astrology design adds a mystical vibe to a cool cotton-blend hoodie.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": ["#5A766C"],
+    "brand": "ALTRU",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 79.99,
+    "files": [
+      14
+    ]
+  },
+  {
+    "title": "Zach Straight Leg Jeans",
+    "description": "A classic straight-leg fit and a faded-grey wash make these super-stretchy jeans your go-to pair for casual and elevated looks alike.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#6E6D73"],
+    "brand": "Mavi Jeans",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 79.99,
+    "files": [
+      15
+    ]
+  },
+  {
+    "title": "L'Homme Slim Fit Jeans",
+    "description": "Soft stretch denim refreshes the look and feel of all-occasion jeans cut with a classic mid-rise and modern slim fit that still gives you room to move.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#675E41"],
+    "brand": "FRAME",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 89.99,
+    "files": [
+      16
+    ]
+  },
+  {
+    "title": "Tellis Slim Fit Jeans",
+    "description": "These slim-fitting jeans are crafted from soft, Italian-made stretch denim and touched with a bit of fading and whiskering for a laid-back vibe.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#666465"],
+    "brand": "AG",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 99.99,
+    "files": [
+      17
+    ]
+  },
+  {
+    "title": "Ripped Coated Skinny Jeans",
+    "description": "A sleek dark wash lends wear-anywhere versatility to these ripped skinny jeans cut from lightweight stretch denim with a light coating.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#3B393E"],
+    "brand": "PURPLE BRAND",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 69.99,
+    "files": [
+      18
+    ]
+  },
+  {
+    "title": "The Brixton Slim Straight Leg Jeans",
+    "description": "A straight leg that's slim but not confining lends some polish to these essential jeans in softly worn-in indigo denim that's got some stretch for shape.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#49576F"],
+    "brand": "Joe's",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 79.99,
+    "files": [
+      19
+    ]
+  },
+  {
+    "title": "Motion 2.0 Jeans",
+    "description": "Italian cotton keeps you comfortable and looking smart in these slim-fit jeans featuring a touch of stretch for easy motion.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#B0855A"],
+    "brand": "Rodd & Gunn",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 109.99,
+    "files": [
+      20
+    ]
+  },
+  {
+    "title": "1979 Sleenker Skinny Jeans",
+    "description": "Made with a touch of stretch for comfortable movement, these heavily sanded and whiskered skinny jeans are a go-to throughout the year.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#8297A9"],
+    "brand": "DIESEL®",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 89.99,
+    "files": [
+      21
+    ]
+  },
+  {
+    "title": "Neumel Chukka Boot",
+    "description": "Naturally breathable faux-fur, UGGpure™ or UGGplush™ lines a classic chukka boot grounded by a lugged sole.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#976540"],
+    "brand": "UGG®",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 79.99,
+    "files": [
+      22
+    ]
+  },
+  {
+    "title": "Jace Sneaker",
+    "description": "A classic low-profile sneaker with suede trim and a solid rubber outsole pairs perfectly with low-key, casual outfits.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#918680"],
+    "brand": "Nordstrom",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 59.99,
+    "files": [
+      23
+    ]
+  },
+  {
+    "title": "Dax Plain Toe Derby",
+    "description": "A rubber sole keeps you firmly planted in this plain-toe derby with a classically handsome silhouette.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#2A282B"],
+    "brand": "Nordstrom",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 69.99,
+    "files": [
+      24
+    ]
+  },
+  {
+    "title": "GrandPro Rally Sneaker",
+    "description": "Perforated leather adds smart texture to a stylish sneaker built with GrandFøam cushioning, GrandOS Energy Foam and an Ortholite footbed for superior comfort.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#B1A79B"],
+    "brand": "Cole Haan",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 89.99,
+    "files": [
+      25
+    ]
+  },
+  {
+    "title": "Upton Plain Toe Knit Derby",
+    "description": "Flexible knit construction and a TRUFOAM footbed offer all-day comfort in a stylish derby with versatile appeal.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#31303F"],
+    "brand": "Johnston & Murphy",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 79.99,
+    "files": [
+      26
+    ]
+  },
+  {
+    "title": "Cloud 5 Running Shoe",
+    "description": "Runner-tech performance meets all-day comfort in a hybrid running/lifestyle shoe that goes the distance on the road, in the game or around town.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#B6B7BB"],
+    "brand": "On",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 99.99,
+    "files": [
+      27
+    ]
+  },
+  {
+    "title": "Free Run 5.0 Running Shoe",
+    "description": "Recycled content brings new miles to old materials in a fan-favorite running shoe that's reimagined to take you easily from energized runs to everyday wear.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#1D1B1E"],
+    "brand": "Nike",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 69.99,
+    "files": [
+      28
+    ]
+  },
+  {
+    "title": "React Phantom Run Flyknit 2 Running Shoe",
+    "description": "Breathable and lightweight, this sock-fit running shoe pairs a flexible, supportive Flyknit upper with an energy-returning Nike React foam sole.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#4B4E52"],
+    "brand": "Nike",
+    "gender": [
+      "male",
+      "female"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 109.99,
+    "files": [
+      29
+    ]
+  },
+  {
+    "title": "Men's Floral Sweatshirt",
+    "description": "Bold blooms are splashed across a trim-fitting organic cotton–blend sweatshirt to invigorate your casual look.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#864E6C", "#CDB953", "#285B92"],
+    "brand": "Scotch & Soda",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Sweater"
+    ],
+    "price": 73.99,
+    "files": [
+      30
+    ]
+  },
+  {
+    "title": "Stripe Colorblock Short Sleeve Cotton Polo Sweater",
+    "description": "You'll ace a refined clubhouse look in the striped, colorblock polo sweater knit from lightweight cotton yarns.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#A94239", "#E4DCC9"],
+    "brand": "Marine Layer",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Sweater"
+    ],
+    "price": 52.99,
+    "files": [
+      31
+    ]
+  },
+  {
+    "title": "Stonewash Knit Sweater",
+    "description": "Classic and comfortable, this crewneck sweater knit from soft cotton sports a fit that works layered or on its own.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#263240"],
+    "brand": "COS",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Sweater"
+    ],
+    "price": 42.99,
+    "files": [
+      32
+    ]
+  },
+  {
+    "title": "Solid Crewneck Sweater",
+    "description": "Classic and comfortable, this sweater knit from soft cotton sports an easy fit and a garment-washed finish that looks like you've worn it forever.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#00A388"],
+    "brand": "vineyard vines",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Sweater"
+    ],
+    "price": 64.99,
+    "files": [
+      33
+    ]
+  },
+  {
+    "title": "Mock Neck Merino Wool Sweater",
+    "description": "Slouchy dropped shoulders frame this Italian-crafted sweater knit from soft merino wool with a sophisticated mock neck.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#C3B6AE"],
+    "brand": "Canali",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Sweater"
+    ],
+    "price": 89.99,
+    "files": [
+      34
+    ]
+  },
+  {
+    "title": "La Maille Luis Logo Jacquard Quarter Zip Pullover",
+    "description": "Tactile branding stripes this laid-back pullover with an easy quarter-zip closure and a comfy ribbed mock-neck collar.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#E3CCAA"],
+    "brand": "Jacquemus",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Sweater"
+    ],
+    "price": 79.99,
+    "files": [
+      35
+    ]
+  },
+  {
+    "title": "Linen & Cotton Cardigan",
+    "description": "This handsome heavyweight cardigan is knit from luxe linen-and-cotton in an airy yet rustic almost-waffle-stitch pattern.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#33302B"],
+    "brand": "PEREGRINE",
+    "gender": [
+      "male"
+    ],
+    "categories": [
+      "Sweater"
+    ],
+    "price": 61.99,
+    "files": [
+      36
+    ]
+  },
+  {
+    "title": "Exquisite Attention Floral Long Sleeve Maxi Dress",
+    "description": "Sparkly metallic threads add to the glamour of this satin striped maxi featuring frilly ruffles at the cuffs and neckline.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#D1A09C"],
+    "brand": "Lulus",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Dresses"
+    ],
+    "price": 85.99,
+    "files": [
+      37
+    ]
+  },
+  {
+    "title": "Whimsy Wrap Dress",
+    "description": "A surplice neckline reveals as little or as much as you want to accentuate on a fab dress that's playfully chic and delightfully drapey.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#5E1B4B"],
+    "brand": "Kiyonna",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Dresses"
+    ],
+    "price": 59.99,
+    "files": [
+      38
+    ]
+  },
+  {
+    "title": "Strapless Metallic Organza Gown",
+    "description": "This gown flatters and winnows the waist with crisscrossing swaths of metallic-highlighted organza that release into a flowing A-line skirt.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#6E5071"],
+    "brand": "La Femme",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Dresses"
+    ],
+    "price": 99.99,
+    "files": [
+      39
+    ]
+  },
+  {
+    "title": "Floral Blouson Halter Dress",
+    "description": "A halter neckline and blouson bodice lend flattering elements to a flowy chiffon dress patterned in an elegant floral print.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#FBD5B2"],
+    "brand": "Adrianna Papell",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Dresses"
+    ],
+    "price": 69.99,
+    "files": [
+      40
+    ]
+  },
+  {
+    "title": "Beaded Floral A-Line Cocktail Dress",
+    "description": "Feathery florals add shimmer and shine to this fairy-tale dress done in a beloved A-line silhouette with a fully frothed skirt.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#513B3E"],
+    "brand": "Mac Duggal",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Dresses"
+    ],
+    "price": 89.99,
+    "files": [
+      41
+    ]
+  },
+  {
+    "title": "Floral Print Puff Sleeve Maxi Dress",
+    "description": "A blurred floral print romances this puff-sleeve maxi designed with a smocked back and a ruffled hem.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#C2C3C0"],
+    "brand": "Chelsea28",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Dresses"
+    ],
+    "price": 79.99,
+    "files": [
+      42
+    ]
+  },
+  {
+    "title": "Floral Print Flutter Sleeve Wide Leg Jumpsuit",
+    "description": "Sweet and sophisticated, this wide-leg jumpsuit features a flowery print and shaping smocking at the neck and waist.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#654745"],
+    "brand": "1.STATE",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Dresses"
+    ],
+    "price": 49.99,
+    "files": [
+      43
+    ]
+  },
+  {
+    "title": "Bouclé Blazer",
+    "description": "Add soft texture to your look with a structured bouclé blazer featuring shoulder pads, engraved buttons and shapely darts in the back.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#EEEDF2"],
+    "brand": "River Island",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Coats"
+    ],
+    "price": 67.99,
+    "files": [
+      44
+    ]
+  },
+  {
+    "title": "Hooded Trench Coat",
+    "description": "The ultimate all-season coat, this water-resistant trench has all the classic details you'd expect plus a removable hood and front and back wind shields.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#252122"],
+    "brand": "Cole Haan Signature",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Coats"
+    ],
+    "price": 89.99,
+    "files": [
+      46
+    ]
+  },
+  {
+    "title": "Dalby Leather Biker Jacket",
+    "description": "Rock a classically cool look with this buttery-soft leather moto jacket featuring silvertone hardware and chic slanted pockets.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#202020"],
+    "brand": "AllSaints",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Coats"
+    ],
+    "price": 99.99,
+    "files": [
+      47
+    ]
+  },
+  {
+    "title": "We the Free Rumors Denim Jacket",
+    "description": "An ivory hue adds a fresh twist to a denim jacket that's an essential casual standby.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#FBF1E8"],
+    "brand": "Free People",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Coats"
+    ],
+    "price": 55.99,
+    "files": [
+      48
+    ]
+  },
+  {
+    "title": "Cinched Waist Hooded Raincoat",
+    "description": "Add satiny sheen to your utility rainwear with this lined jacket featuring a removable hood, a fit-adjustable waist and flashes of silky lining at the collar.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#2E1E38"],
+    "brand": "Gallery",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Coats"
+    ],
+    "price": 79.99,
+    "files": [
+      49
+    ]
+  },
+  {
+    "title": "Colorblock Varsity Jacket",
+    "description": "This cotton-blend varsity jacket is your perfect accessory with subtle colorblocking and ribbed trim.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#EEE8DC"],
+    "brand": "Sustainable Style",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Coats"
+    ],
+    "price": 35.99,
+    "files": [
+      50
+    ]
+  },
+  {
+    "title": "Everything's OK Hoodie",
+    "description": "Spread encouragement wherever you go in this slouchy drop-shoulder hoodie cut from a soft cotton-blend fleece.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#F8F5F1"],
+    "brand": "EDIKTED",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 49.99,
+    "files": [
+      51
+    ]
+  },
+  {
+    "title": "Sportswear Oversize Cotton Jersey Hoodie",
+    "description": "A slightly cropped pullover hoodie crafted from heavyweight cotton jersey makes a great layering piece with its relaxed, oversized fit.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#ABAD7C"],
+    "brand": "Nike",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 79.99,
+    "files": [
+      52
+    ]
+  },
+  {
+    "title": "Box Logo NSE Pullover Hoodie",
+    "description": "A logo graphic brings the Never Stop Exploring spirit to life on a hoodie sporting water-based inks and comfy fleece.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#7B6C8B"],
+    "brand": "The North Face",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 69.99,
+    "files": [
+      53
+    ]
+  },
+  {
+    "title": "Check Trim Hoodie",
+    "description": "Contrasting check trim adds a classic touch to this oh-so-cozy hoodie that is the perfect upgrade to your casual wardrobe.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#212121"],
+    "brand": "Karen Kane",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 59.99,
+    "files": [
+      54
+    ]
+  },
+  {
+    "title": "Bouclé Funnel Neck Sweatshirt",
+    "description": "A chunky knit and adjustable drawstring at the hem distinguish a cozy funnel-neck sweatshirt that's perfect for post-yoga lounging this season.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#394456"],
+    "brand": "Sweaty Betty",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 89.99,
+    "files": [
+      55
+    ]
+  },
+  {
+    "title": "Mavi Oversize Hoodie",
+    "description": "Cut for a longer-than-average length, this hoodie give you more cozy cotton-blend fleece to snuggle up with.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#B3BBDF"],
+    "brand": "Mavi Jeans",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Hoodies"
+    ],
+    "price": 39.99,
+    "files": [
+      56
+    ]
+  },
+  {
+    "title": "The Perfect Vintage Straight Leg Jeans",
+    "description": "These '90s supermodel straight-leg jeans have a waist-accentuating high rise complete with the holds-you-in sorcery of Madewell's Magic Pockets™ in front.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#6B93B0"],
+    "brand": "Madewell",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 59.99,
+    "files": [
+      57
+    ]
+  },
+  {
+    "title": "Ripped Crop Straight Leg Jeans",
+    "description": "The perfect amount of rips and whiskering gives these mid-rise cuffed jeans a well-loved look, and the stretch denim makes for a comfortable fit.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#8AA7C3"],
+    "brand": "Wit & Wisdom",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 79.99,
+    "files": [
+      58
+    ]
+  },
+  {
+    "title": "Jet Set Crop Mini Bootcut Pull-On Jeans",
+    "description": "A black wash and bootcut legs offer timeless style in these pull-on jeans crafted from stretch denim.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#232227"],
+    "brand": "FRAME",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 89.99,
+    "files": [
+      59
+    ]
+  },
+  {
+    "title": "Good Curve High Waist Ankle Straight Leg Jeans",
+    "description": "Designed to flatter every body, these faded straight-leg jeans are fashioned with extra stretch and a contoured high waist that prevents gapping.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#81A2BB"],
+    "brand": "Good American",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 69.99,
+    "files": [
+      60
+    ]
+  },
+  {
+    "title": "Le High 'N' Tight Raw Hem Wide Leg Jeans",
+    "description": "Crafted from nonstretch denim with fraying hems, these '90s-inspired jeans have a high waist and trendy wide legs.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#89ADC3"],
+    "brand": "FRAME",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 99.99,
+    "files": [
+      61
+    ]
+  },
+  {
+    "title": "Ember Denim Cargo Pants",
+    "description": "Travel back in time to the 2000s in nonstretch-denim cargo pants flaunting a low rise, full-length legs and plenty of pockets for utilitarian detail.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#444537"],
+    "brand": "EDIKTED",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 49.99,
+    "files": [
+      62
+    ]
+  },
+  {
+    "title": "The Slouchy Boyjean Boyfriend Jeans",
+    "description": "The cut: Madewell's most laid-back boyfriend style, these slouchy jeans sits low on the hips with a relaxed fit through the thighs.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#7A6F69"],
+    "brand": "Madewell",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Jeans"
+    ],
+    "price": 59.99,
+    "files": [
+      63
+    ]
+  },
+  {
+    "title": "G-Lock Pointed Toe Platform Pump (Women)",
+    "description": "A 4G-logo lock inspired by the padlocks hung on Parisian bridges gleams on the slim ankle strap of this pointy-toe pump balanced by a hidden platform.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#37343B"],
+    "brand": "Givenchy",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 59.99,
+    "files": [
+      64
+    ]
+  },
+  {
+    "title": "Yaro Ankle Strap Sandal (Women)",
+    "description": "Modern and minimalist, an essential ankle-strap sandal set on a chunky wrapped heel serves as a versatile go-to style.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#22231E"],
+    "brand": "Sam Edelman",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 79.99,
+    "files": [
+      65
+    ]
+  },
+  {
+    "title": "Raleigh Pump (Women)",
+    "description": "A pointy-toe pump gets a boost of glam for party season with an ankle strap covered in sparkling jewels.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#29282D"],
+    "brand": "Jewel Badgley Mischka",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 49.99,
+    "files": [
+      66
+    ]
+  },
+  {
+    "title": "UGG Classic Mini II Genuine Shearling Lined Boot (Women)",
+    "description": "Pretreated to protect against moisture and staining, this timeless UGG boot is a supremely cozy cold-weather favorite.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#34332F"],
+    "brand": "UGG®",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 89.99,
+    "files": [
+      67
+    ]
+  },
+  {
+    "title": "Miller 2 Water Resistant Boot (Women)",
+    "description": "This water-resistant leather boot features a lug sole and a minimalist design, making it a fashionable and durable shoe to be worn with a variety of looks.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#C0A68F"],
+    "brand": "Nordstorm",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 69.99,
+    "files": [
+      68
+    ]
+  },
+  {
+    "title": "Soft 7 Sneaker (Women)",
+    "description": "A monochrome cap toe subtly refines a low-profile, everyday sneaker shaped from smooth leather with a signature comfort insole.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#6E5E51"],
+    "brand": "ECCO",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 59.99,
+    "files": [
+      69
+    ]
+  },
+  {
+    "title": "Hadley Platform Sneaker (Women)",
+    "description": "Elastic laces create easy on and off in this platform sneaker with a low-top silhouette.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#DBE0E6"],
+    "brand": "Paul Green",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 39.99,
+    "files": [
+      70
+    ]
+  },
+  {
+    "title": "Kawana Running Shoe (Women)",
+    "description": "Fusing springy rebound with a balanced ride, this all-purpose running shoe propels every stride forward on a foam sole that absorbs impact without distortion.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": ["#E6B4A3"],
+    "brand": "HOKA",
+    "gender": [
+      "female"
+    ],
+    "categories": [
+      "Shoes"
+    ],
+    "price": 79.99,
+    "files": [
+      71
+    ]
+  }
+]
