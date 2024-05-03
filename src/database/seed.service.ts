@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 import File from "../features/File/File.model";
-import { hashSync } from "bcrypt";
+import { hashSync } from "bcryptjs";
 import User from "../features/User/models/User.model";
 import Product from "../features/Product/models/Product.model";
 
