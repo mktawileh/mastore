@@ -85,6 +85,113 @@ export default class ProductController {
     }
   }
 
+  public static async getByGender(req: Request, res: Response, next: NextFunction) {
+    const gender = req.params.gender;
+    try {
+      const products = await Product.findAll({
+        where: {
+          gender: {
+            [Op.substring]: gender
+          }
+        },
+        include: [
+          {
+            model: File,
+          }
+        ]
+      });
+
+      const result = products.map(p => {
+        const res = p.toJSON();
+        res.images = p.Files.map(f => "http://localhost:3383/files/image/" + f.filename);
+        delete res.Files;
+        delete res.deletedAt;
+        delete res.createdAt;
+        delete res.updatedAt;
+        return res;
+      });
+
+      res.json({
+        data: result
+      })
+    } catch (err) {
+      res.statusCode = 500;
+      return next(err);
+    }
+  }
+
+  public static async getBySearch(req: Request, res: Response, next: NextFunction) {
+    const query = req.query.q;
+    console.log(query);
+    try {
+      const products = await Product.findAll({
+        where: {
+          [Op.or]: [
+            {
+              gender: {
+                [Op.substring]: query
+              }
+            },
+            {
+              categories: {
+                [Op.substring]: query
+              }
+            },
+            {
+              title: {
+                [Op.substring]: query
+              }
+            },
+            {
+              description: {
+                [Op.substring]: query
+              }
+            },
+            {
+              sizes: {
+                [Op.substring]: query
+              }
+            },
+            {
+              price: {
+                [Op.substring]: query
+              }
+            },
+            {
+              brand: {
+                [Op.substring]: query
+              }
+            }
+          ]
+          
+        },
+        include: [
+          {
+            model: File,
+          }
+        ]
+      });
+
+      const result = products.map(p => {
+        const res = p.toJSON();
+        res.images = p.Files.map(f => "http://localhost:3383/files/image/" + f.filename);
+        delete res.Files;
+        delete res.deletedAt;
+        delete res.createdAt;
+        delete res.updatedAt;
+        return res;
+      });
+
+      res.json({
+        data: result
+      })
+    } catch (err) {
+      res.statusCode = 500;
+      return next(err);
+    }
+  }
+
+
   public static async add(req: Request, res: Response, next: NextFunction) {
     const { error, value } = CreateProductDtoSchema.validate(req.body);
     if (error) {
